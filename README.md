@@ -19,7 +19,7 @@ Once the user enters the correct values, they get the results they are looking f
 
 any wrong value enters, no results are displayed.
 
-![Search_Filter_Drawback](statis/images/Search2.PNG)
+![Search_Filter_Drawback](static/images/Search2.PNG)
 
 # Summary:
 
